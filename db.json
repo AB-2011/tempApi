@@ -1,0 +1,99 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "name": "Burger King",
+      "img": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80",
+      "rating": 4.9,
+      "address": "Jalan Petitenget No. 99X, Seminyak & Jalan Umalas 1",
+      "cuisines":"Turkish",
+      "open": "9 AM to 11 PM",
+      "price":150000
+    },
+    {
+      "id": 2,
+       "name": "Potato Blast",
+      "img": "https://images.unsplash.com/photo-1543353071-087092ec393a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80",
+      "rating": 4.9,
+      "address": "Jalan Lb. Sari No. 8, Kerobokan, Seminyak ",
+      "cuisines":"Australian",
+      "open": "9 AM to 9 PM",
+      "price":90000
+    },
+    {
+      "id": 3,
+      "name": "Juice Everywhere",
+      "img": "https://images.unsplash.com/photo-1542116021-0ff087fb0a41?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=752&q=80",
+      "rating": 4.9,
+      "address": "Jalan Petitenget No. 99X, Seminyak & Jalan Umalas 1",
+      "cuisines":"Healthy & flavoursome",
+      "open": "7.30 AM to 6 PM",
+      "price":50000
+    },
+    {
+      "id": 4,
+       "name": "Fruits Mine",
+      "img": "https://images.unsplash.com/photo-1564758564248-4e575c9a348f?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=401&q=80",
+      "rating": 4.9,
+      "address": "Jalan Petitenget No. 12X",
+      "cuisines":"Vegan",
+      "open": "9 AM to 8 PM",
+      "price":70000
+    },
+    {
+      "id": 5,
+      "name": "Bread King",
+      "img": "https://images.unsplash.com/photo-1589330413699-9f36ddfa9bce?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+      "rating": 4.9,
+      "address": "Jalan Petitenget No. 99X, Seminyak & Jalan Umalas 1",
+      "cuisines":"Turkish",
+      "open": "9 AM to 11 PM",
+      "price":150000
+    },
+    {
+      "id": 6,
+       "name": "Meatball Cafe",
+      "img": "https://images.unsplash.com/photo-1612530953655-2a40f70234d7?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+      "rating": 4.9,
+      "address": "Jalan Lb. Sari No. 8, Kerobokan, Seminyak ",
+      "cuisines":"Australian",
+      "open": "9 AM to 9 PM",
+      "price":90000
+    },
+    {
+      "id": 7,
+      "name": "Spaghetti Chips",
+      "img": "https://images.unsplash.com/photo-1612524730211-783392b8bebd?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+      "rating": 4.9,
+      "address": "Jalan Petitenget No. 99X, Seminyak & Jalan Umalas 1",
+      "cuisines":"Healthy & flavoursome",
+      "open": "7.30 AM to 6 PM",
+      "price":50000
+    },
+    {
+      "id": 8,
+       "name": "Sweet Cake",
+      "img": "https://images.unsplash.com/photo-1493807879848-13f1500cee7f?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+      "rating": 4.9,
+      "address": "Jalan Petitenget No. 12X",
+      "cuisines":"Vegan",
+      "open": "9 AM to 8 PM",
+      "price":70000
+    }
+  ],
+  "users": [
+    {
+      "id":1,
+      "username":"balqis",
+      "password":"abc",
+      "role":"user",
+    },
+    {
+      "id":2,
+      "username":"dara",
+      "password":"abc",
+      "role":"user",
+    }
+  ],
+  "transactions": []
+}
